@@ -5,8 +5,9 @@ Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-datas
 
 # CREATE JUPYTER NOTEBOOK
 open jupyter notebook
-then create 1.train_disease_predection and write code as traintrain_disease_predection.ipynb
-then 2.test_disease_predection and write code as test_disease_predection.ipynb
+then create 
+1.train_disease_predection and write code as traintrain_disease_predection.ipynb
+2.test_disease_predection and write code as test_disease_predection.ipynb
 
 # WEB APPLICATION BUILDING
 # HOME PAGE
